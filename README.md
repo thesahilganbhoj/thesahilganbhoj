@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React, Express, Node, Java.
 - 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about Computers and functioning of Universe.
+- 💬 Curious about how computers work and fascinated by the underlying principles that govern the universe.
 - 📫 How to reach me: ganbhojsahil@gmail.com
 - ⚡ Fun fact: You could talk to me anytime, I wouldn't eat you. 
 
