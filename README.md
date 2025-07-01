@@ -1,4 +1,5 @@
-![Github_new (4)](https://github.com/user-attachments/assets/0dd62684-790c-46ea-bbc5-ca73ab717ac7)
+![gp (1) (1)](https://github.com/user-attachments/assets/879d5a72-8e77-4ef2-a392-a61e20c9cb61)
+
 
 <h1 align="center">Hi 👋, I'm Sahil Ganbhoj</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
